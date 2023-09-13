@@ -1,0 +1,14 @@
+
+pynecone.db
+
+__pycache__/
+
+todoapp/
+
+.vscode
+
+assests/
+
+*.py[cod]
+
+.web
